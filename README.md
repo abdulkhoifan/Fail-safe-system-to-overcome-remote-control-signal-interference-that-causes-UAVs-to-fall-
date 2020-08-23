@@ -1,2 +1,3 @@
 # Fail-safe-system-to-overcome-remote-control-signal-interference-that-causes-UAVs-to-fall-
 To resolve a system failure when data from a remote control is unexpectedly disconnected a file-safe system is required. This fail-safe system is necessary to avoid quadcopters falling at a certain height by utilizing ultrasonic sensors. Ultrasonic sensors are used to control the quadcopter's throttle when it is at an altitude of 1 meter, preventing the quadcopter from falling directly and causing damage.
+![Fail-safe](https://github.com/abdulkhoifan/Fail-safe-system-to-overcome-remote-control-signal-interference-that-causes-UAVs-to-fall-/blob/master/fail-safe%20from%20fall.gif)
